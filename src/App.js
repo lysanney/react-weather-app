@@ -6,14 +6,14 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Amsterdam" />
         <footer>
+          This project was coded by Lysanne Yap and is{" "}
           <a
             href="https://github.com/lysanney/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
-            Open-source{" "}
+            open-sourced on Github.
           </a>
-          code by Lysanne
         </footer>
       </div>
     </div>
